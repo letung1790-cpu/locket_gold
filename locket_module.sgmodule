@@ -1,8 +1,8 @@
 [General]
-#!name = Locket Gold Bypass 2024
-#!desc = Unlock Locket Gold Premium - Updated 2024
-#!author = YourName
-#!homepage = https://raw.githubusercontent.com/ancoldly/locket_gold/refs/heads/master/locket_bypass.js
+#!name = Locket Gold Bypass
+#!desc = Unlock Locket Gold Premium
+#!author = qhuy
+#!homepage = https://raw.githubusercontent.com/letung1790-cpu/locket_gold/refs/heads/master/locket_bypass.js
 
 [Script]
 locket-bypass = type=http-response,pattern=^https://raw.githubusercontent.com/ancoldly/locket_gold/refs/heads/master/locket_bypass.js,requires-body=true,max-size=-1,timeout=60
