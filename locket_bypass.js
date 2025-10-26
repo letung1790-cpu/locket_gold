@@ -6,18 +6,18 @@ try {
         // Create entitlements
         obj.subscriber.entitlements = {
             "premium": {
-                "expires_date": "2099-12-31T23:59:59Z",
+                "expires_date": "9999-12-31T23:59:59Z",
                 "product_identifier": "locket_gold_year",
-                "purchase_date": "2024-01-01T00:00:00Z"
+                "purchase_date": "2009-07-20T00:00:00Z"
             }
         };
         
         // Create subscriptions
         obj.subscriber.subscriptions = {
             "locket_gold_year": {
-                "expires_date": "2099-12-31T23:59:59Z",
-                "original_purchase_date": "2024-01-01T00:00:00Z",
-                "purchase_date": "2024-01-01T00:00:00Z",
+                "expires_date": "9999-12-31T23:59:59Z",
+                "original_purchase_date": "2009-07-20T00:00:00Z",
+                "purchase_date": "2009-07-20T00:00:00Z",
                 "ownership_type": "PURCHASED",
                 "store": "app_store"
             }
